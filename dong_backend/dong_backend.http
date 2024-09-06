@@ -1,0 +1,6 @@
+@dong_backend_HostAddress = http://localhost:5127
+
+GET {{dong_backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
